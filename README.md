@@ -25,6 +25,7 @@ NOTION [바로가기](https://fantastic-asteroid-b25.notion.site/study-with-codi
   
 [백준 1158번 요세푸스](https://www.acmicpc.net/problem/1158) <br>
 [백준 24511번 queuestack](https://www.acmicpc.net/problem/24511) <br>
+[백준 6236번 용돈 관리](https://www.acmicpc.net/problem/6236) <br>
 
 </div>
 </details>
