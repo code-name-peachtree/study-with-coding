@@ -23,8 +23,8 @@ NOTION [바로가기](https://fantastic-asteroid-b25.notion.site/study-with-codi
 <summary> 1) 24.04.18 (목) </summary>
 <div markdown="1">
   
-[백준 2559번 수열](https://www.acmicpc.net/problem/2559) <br>
-[백준 2002번 추월](https://www.acmicpc.net/problem/2002) <br>
+[백준 1158번 요세푸스](https://www.acmicpc.net/problem/1158) <br>
+[백준 245112번 queuestack](https://www.acmicpc.net/problem/24511) <br>
 
 </div>
 </details>
