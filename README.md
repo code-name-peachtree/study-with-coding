@@ -1,7 +1,5 @@
 # study-with-coding
 
-<br>
-
 <HR>
 
 ### RULE
@@ -11,25 +9,31 @@
 2. 코드 설명 
 3. Q&A
 
+<br> 
+
+**NOTION >>** [바로가기](https://fantastic-asteroid-b25.notion.site/study-with-coding-3a30e6216e4d437aa65928f0632a2b27?pvs=4)
 
 <HR>
 
 ### WEEK
-NOTION [바로가기](https://fantastic-asteroid-b25.notion.site/study-with-coding-3a30e6216e4d437aa65928f0632a2b27?pvs=4)
 
-<br> 
 
 <details>
-<summary> 1) 24.04.18 (목) </summary>
+<summary><strong> 24.04.18 ~ 24.04.30 </strong></summary>
 <div markdown="1">
+  <br> 
   
-[백준 1158번 요세푸스](https://www.acmicpc.net/problem/1158) <br>
-[백준 24511번 queuestack](https://www.acmicpc.net/problem/24511) <br>
-[백준 6236번 용돈 관리](https://www.acmicpc.net/problem/6236) <br>
+| 문제 번호 | 문제 이름 | 날짜 |
+|----------|-----------|-----------|
+| [B](https://www.acmicpc.net/problem/) |   | 04.22 |
+| [B](https://www.acmicpc.net/problem/) |   | 04.22 |
+| [B](https://www.acmicpc.net/problem/) |   | 04.22 |
+| [B1158](https://www.acmicpc.net/problem/1158) | 요세푸스 문제 | 04.18 |
+| [B24511](https://www.acmicpc.net/problem/24511) | queuestack | 04.18 |
+| [B6236](https://www.acmicpc.net/problem/6236) | 용돈 관리 | 04.18 |
 
 </div>
 </details>
-
 
 <HR>
 
