@@ -21,10 +21,12 @@
   
 [프로그래머스 1845번 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)<br> 
 - [ ] 이슬기
-- [ ] 이지선 
+- [ ] 이지선
+<br>
+
 [프로그래머스 301647번 부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647)<br>
 - [ ] 이슬기
-- [ ] 이지선 
+- [ ] 이지선
 </div>
 </details>
 
@@ -34,11 +36,11 @@
   
 [백준 2559번 수열](https://www.acmicpc.net/problem/2559) <br>
 - [ ] 이슬기
-- [ ] 이지선 
+- [ ] 이지선
+<br>
 [백준 2002번 추월](https://www.acmicpc.net/problem/2002) <br>
 - [ ] 이슬기
-- [ ] 이지선 
-
+- [ ] 이지선
 </div>
 </details>
 
