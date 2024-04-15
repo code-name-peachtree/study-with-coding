@@ -24,7 +24,7 @@ NOTION [바로가기](https://fantastic-asteroid-b25.notion.site/study-with-codi
 <div markdown="1">
   
 [백준 1158번 요세푸스](https://www.acmicpc.net/problem/1158) <br>
-[백준 245112번 queuestack](https://www.acmicpc.net/problem/24511) <br>
+[백준 24511번 queuestack](https://www.acmicpc.net/problem/24511) <br>
 
 </div>
 </details>
