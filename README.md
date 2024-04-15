@@ -19,16 +19,6 @@ NOTION [바로가기](https://fantastic-asteroid-b25.notion.site/study-with-codi
 <br> 
 
 <details>
-<summary> 2) 24.04.22 (월) </summary>
-<div markdown="1">
-  
-[프로그래머스 1845번 폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845)<br> 
-[프로그래머스 301647번 부모의 형질을 모두 가지는 대장균 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/301647)<br>
-
-</div>
-</details>
-
-<details>
 <summary> 1) 24.04.18 (목) </summary>
 <div markdown="1">
   
