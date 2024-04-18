@@ -30,9 +30,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
-| [B](https://www.acmicpc.net/problem/) |   | 04.22 |
-| [B](https://www.acmicpc.net/problem/) |   | 04.22 |
-| [B](https://www.acmicpc.net/problem/) |   | 04.22 |
+| [P42587](https://school.programmers.co.kr/learn/challenges?order=recent&levels=2%2C1%2C3%2C4) |   | 04.22 |
+| [P214289](https://school.programmers.co.kr/learn/courses/30/lessons/214289) |   | 04.22 |
+| [P150367](https://school.programmers.co.kr/learn/courses/30/lessons/150367) |   | 04.22 |
 | [B1158](https://www.acmicpc.net/problem/1158) | 요세푸스 문제 | 04.18 |
 | [B24511](https://www.acmicpc.net/problem/24511) | queuestack | 04.18 |
 | [B6236](https://www.acmicpc.net/problem/6236) | 용돈 관리 | 04.18 |
