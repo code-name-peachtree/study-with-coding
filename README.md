@@ -50,9 +50,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
-| [B](https://www.acmicpc.net/problem/) |   |  |
-| [B](https://www.acmicpc.net/problem/) |   |  |
-| [B](https://www.acmicpc.net/problem/) |   |  |
+| [P12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호  | 05.02 |
+| [P148653](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 마법의 엘리베이터  | 05.02 |
+| [P136797](https://school.programmers.co.kr/learn/courses/30/lessons/136797) | 숫자 타자 대회  | 05.02 |
 
 </div>
 </details>
