@@ -50,6 +50,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [B1406](https://www.acmicpc.net/problem/1406) | 에디터  | 05.06 |
+| [B21736](https://www.acmicpc.net/problem/21736) | 헌내기는 친구가 필요해  | 05.06 |
+| [B17413](https://www.acmicpc.net/problem/17413) | 단어 뒤집기 2  | 05.06 |
 | [P12909](https://school.programmers.co.kr/learn/courses/30/lessons/12909) | 올바른 괄호  | 05.02 |
 | [P148653](https://school.programmers.co.kr/learn/courses/30/lessons/148653) | 마법의 엘리베이터  | 05.02 |
 | [P136797](https://school.programmers.co.kr/learn/courses/30/lessons/136797) | 숫자 타자 대회  | 05.02 |
