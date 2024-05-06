@@ -50,6 +50,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [P132265](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | 롤케이크 자르기  | 05.09 |
+| [P133500](https://school.programmers.co.kr/learn/courses/30/lessons/133500) | 등대  | 05.09 |
+| [P12924](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | 숫자의 표현  | 05.09 |
 | [B1406](https://www.acmicpc.net/problem/1406) | 에디터  | 05.06 |
 | [B21736](https://www.acmicpc.net/problem/21736) | 헌내기는 친구가 필요해  | 05.06 |
 | [B17413](https://www.acmicpc.net/problem/17413) | 단어 뒤집기 2  | 05.06 |
