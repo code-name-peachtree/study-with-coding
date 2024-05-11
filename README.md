@@ -50,6 +50,8 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [B1946](https://www.acmicpc.net/problem/1946) | 신입 사원  | 05.13 |
+| [B2583](https://www.acmicpc.net/problem/2583) | 영역 구하기  | 05.13 |
 | [P132265](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | 롤케이크 자르기  | 05.09 |
 | [P133500](https://school.programmers.co.kr/learn/courses/30/lessons/133500) | 등대  | 05.09 |
 | [P12924](https://school.programmers.co.kr/learn/courses/30/lessons/12924) | 숫자의 표현  | 05.09 |
