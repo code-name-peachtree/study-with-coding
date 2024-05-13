@@ -50,6 +50,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [P131701](https://school.programmers.co.kr/learn/courses/30/lessons/131701) | 연속 부분 수열 합의 개수  | 05.16 |
+| [P43105](https://school.programmers.co.kr/learn/courses/30/lessons/43105) | 정수 삼각형  | 05.16 |
+| [P43238](https://school.programmers.co.kr/learn/courses/30/lessons/43238) | 입국심사  | 05.16 |
 | [B1946](https://www.acmicpc.net/problem/1946) | 신입 사원  | 05.13 |
 | [B2583](https://www.acmicpc.net/problem/2583) | 영역 구하기  | 05.13 |
 | [P132265](https://school.programmers.co.kr/learn/courses/30/lessons/132265) | 롤케이크 자르기  | 05.09 |
