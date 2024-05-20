@@ -50,6 +50,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [P250135](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | 아날로그 시계  | 05.23 |
+| [P140107](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | 점 찍기  | 05.23 |
+| [P138475](https://school.programmers.co.kr/learn/courses/30/lessons/138475) | 억억단을 외우자  | 05.23 |
 | [B2012](https://www.acmicpc.net/problem/2012) | 등수 매기기  | 05.20 |
 | [B2563](https://www.acmicpc.net/problem/2563) | 색종이  | 05.20 |
 | [B5582](https://www.acmicpc.net/problem/5582) | 공통 부분 문자열  | 05.20 |
