@@ -50,6 +50,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [B1541](https://www.acmicpc.net/problem/1541) | 잃어버린 괄호  | 05.30 |
+| [B1759](https://www.acmicpc.net/problem/1759) | 암호 만들기  | 05.30 |
+| [B23757](https://www.acmicpc.net/problem/23757) | 아이들과 선물 상자  | 05.30 |
 | [P250135](https://school.programmers.co.kr/learn/courses/30/lessons/250135) | 아날로그 시계  | 05.23 |
 | [P140107](https://school.programmers.co.kr/learn/courses/30/lessons/140107) | 점 찍기  | 05.23 |
 | [P138475](https://school.programmers.co.kr/learn/courses/30/lessons/138475) | 억억단을 외우자  | 05.23 |
