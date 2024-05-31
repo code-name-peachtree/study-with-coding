@@ -77,6 +77,21 @@
 </div>
 </details>
 
+<details>
+<summary><strong> 24.06.01 ~ 24.06.30 </strong></summary>
+<div markdown="1">
+  <br> 
+  
+| 문제 번호 | 문제 이름 | 날짜 |
+|----------|-----------|-----------|
+| [P258712](https://school.programmers.co.kr/learn/courses/30/lessons/258712) | 가장 많이 받은 선물  | 06.03 |
+| [P150365](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | 미로 탈출 명령어  | 06.03 |
+| [P181187](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 두 원 사이의 정수 쌍  | 06.03 |
+
+</div>
+</details>
+
+
 <HR>
 
 
