@@ -84,6 +84,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [B15961](https://www.acmicpc.net/problem/15961) | 회전 초밥  | 06.06 |
+| [B21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기  | 06.06 |
+| [B2293](https://www.acmicpc.net/problem/2293) | 동전 1  | 06.06 |
 | [P258712](https://school.programmers.co.kr/learn/courses/30/lessons/258712) | 가장 많이 받은 선물  | 06.03 |
 | [P150365](https://school.programmers.co.kr/learn/courses/30/lessons/150365) | 미로 탈출 명령어  | 06.03 |
 | [P181187](https://school.programmers.co.kr/learn/courses/30/lessons/181187) | 두 원 사이의 정수 쌍  | 06.03 |
