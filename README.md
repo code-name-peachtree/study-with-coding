@@ -84,7 +84,7 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
-| [P250137](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | 붕대 감  | 06.10 |
+| [P250137](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | 붕대 감기기  | 06.10 |
 | [P176962](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | 과제 진행하  | 06.10 |
 | [P258705](https://school.programmers.co.kr/learn/courses/30/lessons/258705) | 산 모양 타일  | 06.10 |
 | [B15961](https://www.acmicpc.net/problem/15961) | 회전 초밥  | 06.06 |
