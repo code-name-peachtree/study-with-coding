@@ -84,6 +84,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [P250137](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | 붕대 감  | 06.10 |
+| [P176962](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | 과제 진행하  | 06.10 |
+| [P258705](https://school.programmers.co.kr/learn/courses/30/lessons/258705) | 산 모양 타일  | 06.10 |
 | [B15961](https://www.acmicpc.net/problem/15961) | 회전 초밥  | 06.06 |
 | [B21610](https://www.acmicpc.net/problem/21610) | 마법사 상어와 비바라기  | 06.06 |
 | [B2293](https://www.acmicpc.net/problem/2293) | 동전 1  | 06.06 |
