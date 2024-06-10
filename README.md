@@ -84,6 +84,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [B20920](https://www.acmicpc.net/problem/20920) | 영단어 암기는 괴로워  | 06.13 |
+| [B10825](https://www.acmicpc.net/problem/10825) | 국영수  | 06.13 |
+| [B2477](https://www.acmicpc.net/problem/2477) | 참외밭  | 06.13 |
 | [P250137](https://school.programmers.co.kr/learn/courses/30/lessons/250137) | 붕대 감기기  | 06.10 |
 | [P176962](https://school.programmers.co.kr/learn/courses/30/lessons/176962) | 과제 진행하  | 06.10 |
 | [P258705](https://school.programmers.co.kr/learn/courses/30/lessons/258705) | 산 모양 타일  | 06.10 |
