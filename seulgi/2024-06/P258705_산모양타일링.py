@@ -11,4 +11,4 @@ def solution(n, tops):
         else:
             a[i] = (a[i-1] + b[i-1]) % 10007
             b[i] = (a[i-1] + 2 * b[i-1]) % 10007
-    return (a[n] + b[n] % 10007)
+    return (a[n] + b[n]) % 10007
