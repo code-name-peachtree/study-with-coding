@@ -84,6 +84,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [P12973](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 짝지어 제거하기  | 06.17 |
+| [P178870](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | 연속된 부분 수열의   | 06.17 |
+| [P172927](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | 광물 캐기  | 06.17 |
 | [B20920](https://www.acmicpc.net/problem/20920) | 영단어 암기는 괴로워  | 06.13 |
 | [B10825](https://www.acmicpc.net/problem/10825) | 국영수  | 06.13 |
 | [B2477](https://www.acmicpc.net/problem/2477) | 참외밭  | 06.13 |
@@ -102,5 +105,4 @@
 
 
 <HR>
-
 
