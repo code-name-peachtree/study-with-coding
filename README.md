@@ -84,6 +84,12 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [P12900](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | 2 * n 타일링  | 06.24 |
+| [P12911](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | 다음 큰 숫자  | 06.24 |
+| [P12980](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | 점프와 순간 이동  | 06.24 |
+| [B1149](https://www.acmicpc.net/problem/1149) | RGB거리  | 06.24 |
+| [B9084](https://www.acmicpc.net/problem/9084) | 동전  | 06.24 |
+| [B11048](https://www.acmicpc.net/problem/11048) | 이동하기  | 06.24 |
 | [P12973](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | 짝지어 제거하기  | 06.17 |
 | [P178870](https://school.programmers.co.kr/learn/courses/30/lessons/178870) | 연속된 부분 수열의   | 06.17 |
 | [P172927](https://school.programmers.co.kr/learn/courses/30/lessons/172927) | 광물 캐기  | 06.17 |
