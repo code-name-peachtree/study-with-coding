@@ -84,6 +84,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [B16401](https://www.acmicpc.net/problem/16401) | 과자 나눠주기  | 06.27 |
+| [B4883](https://www.acmicpc.net/problem/4883) | 삼각 그래프  | 06.27 |
+| [B15988](https://www.acmicpc.net/problem/15988) | 1, 2, 3 더하기 3  | 06.27 |
 | [P12900](https://school.programmers.co.kr/learn/courses/30/lessons/12900) | 2 * n 타일링  | 06.24 |
 | [P12911](https://school.programmers.co.kr/learn/courses/30/lessons/12911) | 다음 큰 숫자  | 06.24 |
 | [P12980](https://school.programmers.co.kr/learn/courses/30/lessons/12980) | 점프와 순간 이동  | 06.24 |
