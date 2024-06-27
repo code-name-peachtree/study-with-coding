@@ -112,6 +112,20 @@
 </div>
 </details>
 
+<details>
+<summary><strong> 24.07.01 ~ 24.07.31 </strong></summary>
+<div markdown="1">
+  <br> 
+  
+| 문제 번호 | 문제 이름 | 날짜 |
+|----------|-----------|-----------|
+| [P250121](https://school.programmers.co.kr/learn/courses/30/lessons/250121) | 데이터 분석 | 07.01 |
+| [P12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | 멀리 뛰기  | 07.01 |
+| [P138476](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기  | 07.01 |
+
+</div>
+</details>
+
 
 <HR>
 
