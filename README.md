@@ -119,6 +119,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [B1477](https://www.acmicpc.net/problem/1477) | 휴게소 세우기  | 07.04 |
+| [B16947](https://www.acmicpc.net/problem/16947) | 서울 지하철 2호선  | 07.04 |
+| [B2004](https://www.acmicpc.net/problem/2004) | 조합 0의 개수  | 07.04 |
 | [P250121](https://school.programmers.co.kr/learn/courses/30/lessons/250121) | 데이터 분석 | 07.01 |
 | [P12914](https://school.programmers.co.kr/learn/courses/30/lessons/12914) | 멀리 뛰기  | 07.01 |
 | [P138476](https://school.programmers.co.kr/learn/courses/30/lessons/138476) | 귤 고르기  | 07.01 |
