@@ -42,7 +42,6 @@ public class B16947_서울지하철2호선 {
         answer = new int[n + 1];
         visited = new boolean[n + 1];
 
-        System.out.println(Arrays.toString(check));
         // 지선 거리 계산 (시작은 순환선에서)
         for (int i = 1; i <= n; i++) {
             if (check[i] && list[i].size() > 2) {
