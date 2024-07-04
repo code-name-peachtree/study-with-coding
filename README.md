@@ -119,6 +119,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [P152995](https://school.programmers.co.kr/learn/courses/30/lessons/152995) | 인사고과 | 07.08 |
+| [P148652](https://school.programmers.co.kr/learn/courses/30/lessons/148652) | 유사 칸토어 비트열  | 07.08 |
+| [P12981](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | 영어 끝말잇기  | 07.08 |
 | [B1477](https://www.acmicpc.net/problem/1477) | 휴게소 세우기  | 07.04 |
 | [B16947](https://www.acmicpc.net/problem/16947) | 서울 지하철 2호선  | 07.04 |
 | [B2004](https://www.acmicpc.net/problem/2004) | 조합 0의 개수  | 07.04 |
