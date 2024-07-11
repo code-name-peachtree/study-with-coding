@@ -119,6 +119,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [P42888](https://school.programmers.co.kr/learn/courses/30/lessons/42888) | 오픈채팅방 | 07.11 |
+| [P169198](https://school.programmers.co.kr/learn/courses/30/lessons/169198) | 당구 연습  | 07.11 |
+| [P161990](https://school.programmers.co.kr/learn/courses/30/lessons/161990) | 바탕화면 정리  | 07.11 |
 | [B25381](https://www.acmicpc.net/problem/25381) | ABBC  | 07.11 |
 | [B3096](https://www.acmicpc.net/problem/3096) | 영화제  | 07.11 |
 | [B1449](https://www.acmicpc.net/problem/1449) | 수리공 항승  | 07.11 |
