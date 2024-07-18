@@ -119,6 +119,9 @@
   
 | 문제 번호 | 문제 이름 | 날짜 |
 |----------|-----------|-----------|
+| [P131704](https://school.programmers.co.kr/learn/courses/30/lessons/131704) | 택배상자 | 07.22 |
+| [P118666](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | 성격 유형 검사하기  | 07.22 |
+| [P72410](https://school.programmers.co.kr/learn/courses/30/lessons/72410) | 신규 아이디 추천  | 07.22 |
 | [B10819](https://www.acmicpc.net/problem/10819) | 차이를 최대로  | 07.18 |
 | [B14675](https://www.acmicpc.net/problem/14675) | 단절점과 단절선  | 07.18 |
 | [B2636](https://www.acmicpc.net/problem/2636) | 치즈  | 07.18 |
