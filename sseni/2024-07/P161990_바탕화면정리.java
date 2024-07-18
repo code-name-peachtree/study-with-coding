@@ -2,7 +2,7 @@ package com.example.algorithm;
 
 import java.util.Arrays;
 
-public class P169198_바탕화면정리 {
+public class P161990_바탕화면정리 {
     public static int[] solution(String[] wallpaper) {
         int[] answer = new int[4]; // min, max
         answer[0] = 51;

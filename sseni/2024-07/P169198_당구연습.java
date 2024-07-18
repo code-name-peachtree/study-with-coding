@@ -2,7 +2,7 @@ package com.example.algorithm;
 
 import java.util.Arrays;
 
-public class P161990_당구연습 {
+public class P169198_당구연습 {
     public static int[] solution(int m, int n, int startX, int startY, int[][] balls) {
         int[] answer = new int[balls.length];
 
